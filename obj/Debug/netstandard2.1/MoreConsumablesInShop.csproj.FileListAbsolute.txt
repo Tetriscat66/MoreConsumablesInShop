@@ -1,0 +1,11 @@
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\obj\Debug\netstandard2.1\MoreConsumablesInShop.csproj.AssemblyReference.cache
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\obj\Debug\netstandard2.1\MyPluginInfo.cs
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\obj\Debug\netstandard2.1\MoreConsumablesInShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\obj\Debug\netstandard2.1\MoreConsumablesInShop.AssemblyInfoInputs.cache
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\obj\Debug\netstandard2.1\MoreConsumablesInShop.AssemblyInfo.cs
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\obj\Debug\netstandard2.1\MoreConsumablesInShop.csproj.CoreCompileInputs.cache
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\bin\Debug\netstandard2.1\MoreConsumablesInShop.deps.json
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\bin\Debug\netstandard2.1\MoreConsumablesInShop.dll
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\bin\Debug\netstandard2.1\MoreConsumablesInShop.pdb
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\obj\Debug\netstandard2.1\MoreConsumablesInShop.dll
+D:\VS\MoreConsumablesInShop\MoreConsumablesInShop\obj\Debug\netstandard2.1\MoreConsumablesInShop.pdb

@@ -1,0 +1,7 @@
+{
+	"name": "MoreConsumablesInShop",
+	"description": "Adds more consumable Rosary/Shell Shard items to shop menus. Some items have additional requirements that must be fulfilled before they can be unlocked.",
+	"version_number": "1.0.0",
+	"dependencies": [ "BepInEx-BepInExPack_Silksong-5.4.2303" ],
+	"website_url": "https://github.com/Tetriscat66/MoreConsumablesInShop"
+}
