@@ -31,7 +31,7 @@ public class Plugin : BaseUnityPlugin {
 
 	enum VendorID {
 		ForgeDaughter = 0,
-		Fey = 1,
+		Frey = 1,
 		Grindle = 2,
 		Jubilina = 3,
 		Mort = 4,
@@ -193,7 +193,7 @@ public class Plugin : BaseUnityPlugin {
 				group = ConsumableGroups.Shards;
 				break;
 			case "Bellhart Stock":
-				vendor = (int)VendorID.Fey;
+				vendor = (int)VendorID.Frey;
 				group = ConsumableGroups.Both;
 				popCount++;
 				break;
@@ -308,7 +308,7 @@ public class Plugin : BaseUnityPlugin {
 					descSheet = "Forge";
 					shardDesc = "FORGE_SHARD_POUCH_DESC";
 					break;
-				case VendorID.Fey:
+				case VendorID.Frey:
 					group = ConsumableGroups.Both;
 					uiSheet = "UI";
 					descSheet = "Belltown";

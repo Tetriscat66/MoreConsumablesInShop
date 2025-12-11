@@ -19,7 +19,7 @@ This mod adds more consumable Rosary/Shell Shard items to shop menus. Some items
 | NPC               | Sells    | Heavy Rosary Necklace Requirement | Pale Rosary Necklace Requirement\*  |
 | ---               | -----    | --------------------------------- | --------------------------------    |
 | Forge Daughter    | Shards   | N/A                               | N/A                                 |
-| Fey               | Both     | *Restoration of Bellhart* wish    | *Bellhart's Glory* wish             |
+| Frey               | Both     | *Restoration of Bellhart* wish    | *Bellhart's Glory* wish             |
 | Grindle           | Rosaries | *ASCEND: Pharloom's Crown* wish   | Started *SEEK: After the Fall* wish |
 | Jubilina          | Rosaries | *Building Up Songclave* wish      | *Strengthening Songclave* wish      |
 | Mort              | Both     | *Pilgrim's Rest Supplies* wish    | *Pilgrim's Rest Supplies* wish      |
@@ -29,7 +29,7 @@ This mod adds more consumable Rosary/Shell Shard items to shop menus. Some items
 
 *\*Pale Rosary Necklaces require both their unlock requirement and the Heavy Rosary Necklace's unlock requirement to be fulfilled.* 
 
-Additionally, Fey maintains her vanilla requirement of completing the *My Missing Courier* wish before her shop can sell Rosary or Shell Shard refills, and Mort maintains his requirement of completing the *Pilgrim's Rest Supplies* wish before his shop can sell Shell Shard refills. 
+Additionally, Frey maintains her vanilla requirement of completing the *My Missing Courier* wish before her shop can sell Rosary or Shell Shard refills, and Mort maintains his requirement of completing the *Pilgrim's Rest Supplies* wish before his shop can sell Shell Shard refills. 
 
 With this mod on its own, you cannot see any changes to Mottled Skarr's shop, as he dies before you can unlock any other Shell Shard refills. He was included for in the event someone makes an [Immortal Architect](https://thunderstore.io/c/hollow-knight-silksong/p/OrderOfTheGoons/Immortal_Architect/)-like mod for him, as well as just for consistency. His shop works though, I tested using Unity Explorer. 
 
